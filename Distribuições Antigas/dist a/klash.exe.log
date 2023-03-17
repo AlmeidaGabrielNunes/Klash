@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "klash.py", line 474, in <module>
+pygame.error: No available video device
+Traceback (most recent call last):
+  File "klash.py", line 474, in <module>
+pygame.error: No available video device

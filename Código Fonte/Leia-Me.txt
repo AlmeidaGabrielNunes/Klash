@@ -1,0 +1,11 @@
+KLASH
+
+Linguagem/Engines/Bibliotecas: Python, com a biblioteca Pygame.
+Propósito: Disciplina de Tecnologias de Redes de Computadores
+
+Equipe:
+
+Ana Paula Uehara
+Gabriel Almeida
+Hamilton Santos
+Letícia Custódio

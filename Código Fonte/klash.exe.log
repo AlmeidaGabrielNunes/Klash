@@ -1,0 +1,23 @@
+Traceback (most recent call last):
+  File "klash.py", line 643, in <module>
+  File "klash.py", line 252, in criar_sockets
+ValueError: invalid literal for int() with base 10: ''
+Traceback (most recent call last):
+  File "klash.py", line 643, in <module>
+  File "klash.py", line 226, in criar_sockets
+ValueError: invalid literal for int() with base 10: 'lo u'
+Traceback (most recent call last):
+  File "klash.py", line 643, in <module>
+  File "klash.py", line 252, in criar_sockets
+  File "socket.pyo", line 224, in meth
+socket.error: [Errno 10048] Normalmente é permitida apenas uma utilização de cada endereço de soquete (protocolo/endereço de rede/porta)
+Traceback (most recent call last):
+  File "klash.py", line 643, in <module>
+  File "klash.py", line 252, in criar_sockets
+ValueError: invalid literal for int() with base 10: ''
+Traceback (most recent call last):
+  File "klash.py", line 643, in <module>
+    criar_sockets(tipo_socket, tipo_conexao)
+  File "klash.py", line 252, in criar_sockets
+    receptor_udp.bind(('', int(PORT)+1))
+ValueError: invalid literal for int() with base 10: ''
